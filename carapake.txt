@@ -1,0 +1,5 @@
+1. Install NodeJs versi terbaru v20.16.0
+2. install module tinggal npm i
+3. kalo sudah langsung node index.js 
+4. scan barcode yang ada di terminal 
+5. Jangan Lupa Sumbangannya https://saweria.co/burn666
